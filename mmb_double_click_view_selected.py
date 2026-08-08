@@ -1,6 +1,6 @@
 bl_info = {
     "name": "MMB Double-Click View Selected",
-    "author": "OpenAI",
+    "author": "ChatGPT",
     "version": (1, 0, 0),
     "blender": (3, 0, 0),
     "location": "3D View",
