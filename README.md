@@ -1,7 +1,13 @@
 
+<video src="https://github.com/user-attachments/assets/faafad2f-6d93-4037-a52d-f1608276ac28"
+       autoplay
+       loop
+       muted
+       playsinline
+       width="800">
+</video>
 
 https://github.com/user-attachments/assets/faafad2f-6d93-4037-a52d-f1608276ac28
-
 # MMB Double-Click View Selected
 
 A tiny Blender add-on that lets you **double-click the Middle Mouse Button (MMB)** to center the 3D View on the currently selected object.
