@@ -1,11 +1,5 @@
 
-<video src="https://github.com/user-attachments/assets/faafad2f-6d93-4037-a52d-f1608276ac28"
-       autoplay
-       loop
-       muted
-       playsinline
-       width="800">
-</video>
+<img width="773" height="613" alt="2026-09-30 01-42-44_%06d" src="https://github.com/user-attachments/assets/f43cfe00-0cdb-40fa-bbf8-3eb208fe30d7" />
 
 # MMB Double-Click View Selected
 
