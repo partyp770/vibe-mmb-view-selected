@@ -1,0 +1,12 @@
+schema_version = "1.0.0"
+
+id = "mmb_double_click_view_selected"
+version = "1.0.0"
+name = "MMB Double-Click View Selected"
+tagline = "Center the viewport on your selection with a double-click"
+maintainer = "partyp770"
+type = "add-on"
+
+blender_version_min = "4.2.0"
+
+tags = ["3D View"]
