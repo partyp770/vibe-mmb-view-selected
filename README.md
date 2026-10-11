@@ -61,5 +61,4 @@ Disable or remove the add-on from:
 
 ## License
 
-This add-on was made entirely by AI. You are free to modify, redistribute, and repackage it as you wish.
-
+This add-on was made entirely by AI. You are free to modify, redistribute, and repackage it according to the terms of the GPLv3 license.
